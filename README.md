@@ -7,10 +7,10 @@ The model is located in the LEM-wLE subfolder, which contains the following fold
 
 [folders]
 
---input - contains initial topography .asc raster files 
---modules - contains functions used for the model
---output - this is where data is saved for the model runs
---parameters - this contains the driver files that the code uses
+-input - contains initial topography .asc raster files 
+-modules - contains functions used for the model
+-output - this is where data is saved for the model runs
+-parameters - this contains the driver files that the code uses
 
 [files]
 
